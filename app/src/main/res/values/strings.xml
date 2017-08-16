@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapsApp1</string>
+    <string name="title_activity_maps">GPS Locater</string>
+</resources>
